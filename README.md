@@ -1,2 +1,3 @@
-# soft_dev_lab
-Practicing git
+#Bangladesh Army University Of Science And Technology
+##Department of CSE
+##16th Batch
